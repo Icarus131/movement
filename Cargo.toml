@@ -40,7 +40,7 @@ members = [
     "protocol-units/bridge/integration-tests",
     "protocol-units/bridge/indexer-db",
     "protocol-units/bridge/util",
-    "benches/*",
+    "benches/*", "hsm-app/app",
 ]
 
 [workspace.package]
